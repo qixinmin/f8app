@@ -1,3 +1,4 @@
+https://f8-app.liaohuqiu.net/#content 说明f8的历史，设计文档etc
 # F8 App 2016
 
 This is the entire source code of the official [F8](https://fbf8.com/) app of 2016, available on [Google Play](https://play.google.com/store/apps/details?id=com.facebook.f8) and the [App Store](https://itunes.apple.com/us/app/f8/id853467066).
